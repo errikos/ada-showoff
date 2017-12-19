@@ -44,7 +44,7 @@ One thing to keep in mind here is that the tweets in the dataset make up only a 
 
 ## Swiss Tweets
 
-The Tweets Leon database consists of about 11 million tweets, made between 2016-01-01 and 2016-10-31. That is 10 months worth of tweets.
+The Swiss Tweets database consists of about 11 million tweets, made between 2016-01-01 and 2016-10-31. That is 10 months worth of tweets.
 
 #### Language distribution
 
