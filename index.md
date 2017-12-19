@@ -68,6 +68,14 @@ If you look at the pattern of interest, it makes sense, as the most popular days
 
 But how about that peak in April? It turns out that on 14th April, the ticket sale for the festival started! Our timeline gives away all this information perfectly. See you in the festival next year!
 
+### North Korea is as popular as chocolate
+
+No kidding. Of course, year 2016 was one in which North Korea drew a lot of attention from the global community. We expected for it to be discussed in Switzerland as well. But for the country to be almost as popular as chocolate, in Switzerland, that is really interesting and amazing!
+
+{% include plots/swiss/counts_nkorea_chocolate.html %}
+
+We believe that Swiss people should tweet more about their amazing chocolates!
+
 ### Referendums are cool
 
 On 23rd June 2016, all attention was drawn to the United Kingdom and its referendum to remain to or leave from the European Union. Once again, people (living in Switzerland) showed that they enjoy making political decisions (or in this case watching others make political decisions!).
@@ -78,7 +86,7 @@ The interest in the UK referendum tops, in absolute value of tweets, any other e
 
 ### Cumulative plot
 
-We leave you with a cumulative plot to play with.
+We leave you a cumulative plot to play with. Click [here]({{site.baseurl}}/swiss_all) for the full-screen plot.
 
 {% include plots/swiss/counts_all.html %}
 
@@ -167,3 +175,10 @@ By "non-significant" we simply mean gossip events, that is, events that would ha
 ## Some interesting observations
 
 To be done once the analysis finishes from the cluster...
+
+
+### Cumulative plot
+
+We leave you a cumulative plot to play with. Click [here]({{site.baseurl}}/leon_all) for the full-screen plot.
+
+{% include plots/leon/counts_all.html %}
