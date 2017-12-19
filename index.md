@@ -111,6 +111,8 @@ Let us list the well-known people, for which we collected data:
 * [Christopher Lee](https://en.wikipedia.org/wiki/Christopher_Lee) (7th June 2015)
 * [Lemmy](https://en.wikipedia.org/wiki/Lemmy) (28th December 2015)
 
+{% include plots/leon/counts_well_known_deaths.html %}
+
 ## Reaction on loss of life
 
 By "mass loss of life" we mean any event, natural or man-provoked event that leads to a large amount of people losing their life. For example, natural disasters, like earthquakes and tornadoes and any form of violence (e.g. suicide bombings) belong to this category.
@@ -137,6 +139,8 @@ For reference, we list the events we selected for analysis:
 * Ankara bombings (October 2015)
 * Paris terrorist attacks (November 2015)
 
+{% include plots/leon/counts_loss_of_life.html %}
+
 ## Reaction on scientific and political events
 
 Scientific events consist of events that are related to the scientific world and technological world.
@@ -155,12 +159,16 @@ Scientific events consist of events that are related to the scientific world and
 * Climate change pact in Paris (13th December 2015)
 * SpaceX lands Falcon 9 (22nd December 2015)
 
+{% include plots/leon/counts_science_politics.html %}
+
 ## Reaction on sports events
 
 Sport-related events always catch public attention. We decided to include only main events, such as the FIFA World Cup (football) and the Olympic Games. There are two main events during our period, specifically:
 
 * 2012 Olympic Games in London (Summer 2012)
 * 2014 FIFA World Cup in Brazil (Summer 2014)
+
+{% include plots/leon/counts_sports.html %}
 
 ## Reaction to non-significant events
 
@@ -171,6 +179,10 @@ By "non-significant" we simply mean gossip events, that is, events that would ha
 * Harlem Shake (February 2013)
 * North West (Kim Kardashian + Kanye West) (15th June 2013)
 * #BreakTheInternet by Kim Kardashian (12th November 2014)
+
+{% include plots/leon/counts_other.html %}
+
+Wow, it seems that a wedding of the Royal Family, is as popular as an impending end of the world! Who knew...
 
 ## Some interesting observations
 
