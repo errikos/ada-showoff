@@ -13,6 +13,12 @@ The first step was to run back in time and distinguish about 70 events that took
 
 We then went through the datasets and collected the amount of tweets that were made daily and which "matched" each one of the defined events. This information was more than enough to conduct our analysis.
 
+#### Disclaimer
+
+The following analysis was done as part of the ADA course @ EPFL and while doing it we were trying to also have fun. Some of the comments made below are meant to be taken as humourous ones and do not necessarily reflect the authors' individual opinions.
+
+Furthermore, at no point we do imply that event X is more significant than event Y. The only variable of the comparison in each case is the event's impact on Twitter and nothing more.
+
 # Part I: Swiss Tweets
 
 The Swiss Tweets database is the smaller of the two and it spans just ten months, from January 2016 until (and including) October 2016. To compensate for that, the database includes sentiment data for each tweet, which we will use below.
@@ -112,6 +118,8 @@ Let us list the well-known people, for which we collected data:
 * [Lemmy](https://en.wikipedia.org/wiki/Lemmy) (28th December 2015)
 
 {% include plots/leon/counts_well_known_deaths.html %}
+
+
 
 ## Reaction on loss of life
 
