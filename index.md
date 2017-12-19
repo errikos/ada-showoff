@@ -206,7 +206,13 @@ Wow, it seems that a wedding of the Royal Family, is as popular as an impending 
 
 ## Some interesting observations
 
-To be done once the analysis finishes from the cluster...
+When starting this project, we were expecting that the "non-significant" events would attract all of the interest of Twitter. And this would not be a bad thing, after all we can't always discuss or read about things that make us sad. On the other side, it is always nice to not get carried away.
+
+We are happy that this is not the case, however we can see that there is a trend:
+* For more serious events, the public* attention seems to sparkle immediately, but it fades rather quickly. However, it will sparkle again, if new things happen regarding the aforementioned event.
+* For more "gossipy" events, the public attention will sparkle equally fast, it will fade rather quickly, but it will be very difficult to respawn. E.g. the Harlem Shake was forgotten pretty quickly.
+
+* By public we mean the sample public.
 
 
 ### Cumulative plot
