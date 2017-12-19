@@ -96,6 +96,18 @@ We leave you a cumulative plot to play with. Click [here]({{site.baseurl}}/swiss
 
 {% include plots/swiss/counts_all.html %}
 
+## Tell me how you feel
+
+The Swiss Tweets dataset also contained a field "sentiment" for the majority of the tweets. Using it, we were able to find some interesting stuff about the tweets resembling to each event.
+
+{% include plots/swiss/sentiment_swiss_all.html %}
+
+We were happy to see that in most cases the polarity of the tweets matches the expected sentiment for the corresponding event.
+
+There are however some events for which the reactions have mixed feelings. The most "dividing" topic seems to be the visit of President Obama to Cuba, for which ~57% of the tweets in the sample have positive feelings and ~43% of them have mixed feelings.
+
+And of course there is the UK referendum, for which about ~60% of the tweets have negative feelings, while ~40% of them have positive ones.
+
 # Part II: Tweets Leon
 
 We will begin by listing the events on which we based our analysis for the Tweets Leon database, as well as our basic findings for each category. The Tweets Leon database roughly spans from January 2011, until December 2015.
